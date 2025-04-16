@@ -1,6 +1,15 @@
 {
   "programs": [
     {
+      "name": "sharklab1",
+      "url": "https://hackenproof.com/sharklab1/sharklab-contract",
+      "bounty": true,
+      "domains": [
+        "shark-lab-1232313.com",
+        "shark.com"
+      ]
+    },
+    {
       "name": "1inch",
       "url": "https://hackenproof.com/1inch/1inch-smart-contract",
       "bounty": true,
